@@ -1,0 +1,11 @@
+<use name="FWCore/Framework"/>
+<use name="FWCore/PluginManager"/>
+<use name="FWCore/ParameterSet"/>
+<use name="DataFormats/VertexReco"/>
+<use name="DataFormats/TauReco"/>
+<use name="Tools/Common"/>
+<use name="JetMETCorrections/Objects"/>
+<use name="DataFormats/ParticleFlowCandidate"/>
+<use name="FWCore/ServiceRegistry"/>
+<use name="CommonTools/UtilAlgos"/>
+<flags EDM_PLUGIN="1"/>
